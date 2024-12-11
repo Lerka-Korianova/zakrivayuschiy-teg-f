@@ -137,7 +137,7 @@
 }
 
 .brightness-filter {
-  filter: brightness(70%);
+  filter: brightness(90%);
 }
 
 .contrast-filter {
@@ -145,7 +145,7 @@
 }
 
 .opacity-filter {
-  filter: opacity(60%);
+  filter: opacity(80%);
 }
 
 .gray-filter {
@@ -157,15 +157,15 @@
 }
 
 .sepia-filter {
-  filter: sepia(70%);
+  filter: sepia(30%);
 }
 
 .invert-filter {
-  filter: invert(0.8);
+  filter: invert(0.1);
 }
 
 .multiple-filter {
-  filter: brightness(80%) blur(4px);
+  filter: brightness(80%) blur(2px);
 }
 
 .section_card-paragraphs {
